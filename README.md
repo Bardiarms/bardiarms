@@ -40,7 +40,7 @@ Research and implementation of monocular depth estimation techniques. Includes d
 Information Retrieval in Healthcare
 
 Implementation and evaluation of retrieval techniques for clinical and medical data. Focus on indexing pipelines, relevance evaluation, and privacy-aware data cleaning.
-[ link](https://github.com/Bardiarms/Information_Retrieval_in_Healthcare)
+[ Link](https://github.com/Bardiarms/Information_Retrieval_in_Healthcare)
 
 📚 Education
 
