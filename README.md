@@ -23,6 +23,7 @@ Frameworks & Tools: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Google Colab]https:(//img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 
 Domains: ![Software Engineering](https://img.shields.io/badge/Software_Engineering-4285F4?style=flat)
