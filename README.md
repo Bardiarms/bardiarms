@@ -28,7 +28,7 @@ Frameworks & Tools: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style
 
 Domains: ![Software Engineering](https://img.shields.io/badge/Software_Engineering-4285F4?style=flat)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-563D7C?style=flat)
-![NLP](https://img.shields.io/badge/NLP-natural%20language%20processing-blue)
+![NLP](https://img.shields.io/badge/NLP-blue)
 ![Robotics](https://img.shields.io/badge/Robotics-4CAF50?style=flat)
 ![Information Retrieval](https://img.shields.io/badge/Information_Retrieval-FF6F00?style=flat)
 
