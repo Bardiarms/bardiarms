@@ -15,6 +15,8 @@ Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+## Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bardiarms&layout=compact&theme=tokyonight)
 
 
 Frameworks & Tools: ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
